@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "255393322362",
+    "firebase_url": "https://logintest-bbaa3.firebaseio.com",
+    "project_id": "logintest-bbaa3",
+    "storage_bucket": "logintest-bbaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255393322362:android:6228a7b6aa597559",
+        "android_client_info": {
+          "package_name": "com.example.aniket.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255393322362-l1oef6hr7rplcjbsvq78lhg50su0g2sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANIkl2XdWkJO1kscTyXjYnLXzFC4qxIQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
